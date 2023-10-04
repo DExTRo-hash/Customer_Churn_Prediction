@@ -15,14 +15,8 @@ In this project, we explore the impact of different hyperparameters, specificall
 
 - Visualization: To gain insights into model training, we visualized the training and validation curves for each model. These visualizations provide a clear understanding of the model's convergence and generalization capabilities.
 
-## Repository Structure
-- data/: Contains the dataset used for training and evaluation.
-- models/: Includes the code for defining and training the deep learning models.
-- results/: Stores the model performance metrics and visualization outputs.
-- notebooks/: Jupyter notebooks used for data exploration, model development, and result analysis.
-
 ## Results
-Detailed results, including model performance metrics, training curves, and insights from the experiments, can be found in the Results Section.
+Detailed results, including model performance metrics, training curves, and insights from the experiments, can be found in the results section.
 
 ## License
 This project is licensed under the MIT License.
