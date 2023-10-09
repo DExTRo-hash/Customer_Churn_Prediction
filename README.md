@@ -1,5 +1,5 @@
 # Customer_Churn_Prediction
-Modelled multiple deep neural networks to fine tune the hyperparameters and find the most accurate model for customer churn prediction
+Engineered a high-accuracy customer churn prediction model leveraging Python, Jupyter Notebook, Tensorflow, Keras, Matplotlib, and Pandas and fine-tuning the hyperparameters
 
 ## Overview
 This project aims to develop and evaluate multiple deep learning neural network models to predict customer churn in a business or service. Customer churn refers to the rate at which customers discontinue their subscription or usage of a product or service. Accurate prediction of churn is crucial for businesses to identify and retain valuable customers.
